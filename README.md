@@ -211,8 +211,4 @@ This project serves as a comprehensive introduction to SQL for data analysts, co
 ## Author - Zero Analyst
 
 This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. 
-### Stay Updated and Join the Community
 
-
-
-Thank you for your support, and I look forward to connecting with you!
